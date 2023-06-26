@@ -5,20 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54c2711c-a66d-4fdb-91cd-878512ee32f2" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/outScope.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutScope_Back" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/.gradle/7.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope_Back/.gradle/7.6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/.gradle/7.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope_Back/.gradle/7.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/.gradle/7.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope_Back/.gradle/7.6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/.gradle/7.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope_Back/.gradle/7.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope_Back/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope_Back/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope_Back/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope_Back/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutScope_Back/BackEnd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/controller/GoOutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/controller/GoOutController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/controller/SignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/controller/SignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/Authority.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/Authority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/GoOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/GoOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/GoOutRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/GoOutRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/GoOutResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/GoOutResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/SignRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/SignRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/SignResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/SignResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/StateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/StateDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/entity/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/mail/MailConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/mail/MailConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/mail/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/mail/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/repository/GoOutRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/repository/GoOutRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/CustomUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/CustomUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/JpaUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/JpaUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/JwtProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/JwtProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/service/GoOutService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/service/GoOutService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/service/SignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/service/SignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/service/impl/GoOutServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/service/impl/GoOutServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/swagger/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/java/com/example/outscope/swagger/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutScope/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/OutScope/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +66,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/hanavi/Documents/github/BackEnd",
+    "spring.configuration.checksum": "86ca962364fd239d9f0bac76fc41c19c",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681690223360</updated>
       <workItem from="1681690224462" duration="97000" />
+      <workItem from="1682412940379" duration="18000" />
     </task>
     <servers />
   </component>

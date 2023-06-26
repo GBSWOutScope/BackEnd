@@ -1,1 +1,40 @@
+spring:
+  main:
+    allow-circular-references: true
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password:
+    url: jdbc:mysql://localhost:3306/outScope
+
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        default_batch_fetch_size: 1000
+    hibernate:
+      ddl-auto: update
+
+  mvc:
+    path match:
+      matching-strategy: ant_path_matcher
+
+# jwt.secret.key? ?? 256bit ????? ???.
+jwt:
+  secret:
+    key: Xp2s5v8y/B?D(G+KbPeShVmYq3t6w9z$
+
+thread:
+  pool:
+    size: 2
+
+mail:
+  smtp:
+    host: smtp.gmail.com
+    port: 587
+    username: 2021sw1_12@sc.gyo6.net
+    password: owmnulaxcglnlkxi
+    auth: true
+    starttls:
+      enable: true
 
